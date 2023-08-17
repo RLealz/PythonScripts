@@ -1,4 +1,5 @@
-Telegram Channel Information Script
+Get_TG_Channel_Info
+
 Overview
 This Python script is designed to retrieve information about a Telegram channel using its link or username. It outputs the channel information in a human-readable format, allowing users to quickly view details such as the channel ID, title, username, date created, and other attributes. The script gives users the option to output the result to a text file or display it on the screen.
 
